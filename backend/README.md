@@ -11,6 +11,3 @@
 npm install
 npm run dev
 
-Notes:
-- This minimal backend demonstrates OAuth token exchange, refresh via grant_type=refresh_token,
-  scheduling persistence, and a polling scheduler that sends due messages.
